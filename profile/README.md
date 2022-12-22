@@ -1,5 +1,5 @@
 <h1 align="center">
-  VentryShield.NET
+  VentryShield
 <br />
   Don't ever worry about DDoS attacks again.
 <br />
